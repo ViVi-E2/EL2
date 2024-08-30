@@ -1,9 +1,19 @@
 [General]
+<<<<<<< HEAD
     # What should be the maximum height of an elevator cabin? Higher numbers may cause lag.
     # Allowed range: 1 ~ 15 - Default: 7
     maxCabinVerticalSize = 7
 
+=======
+>>>>>>> 843734b (Making Git Good)
     # What should be the maximum width of an elevator cabin? Higher numbers may cause lag.
     # Allowed range: 1 ~ 15 - Default: 7
     maxCabinHorizontalSize = 7
 
+<<<<<<< HEAD
+=======
+    # What should be the maximum height of an elevator cabin? Higher numbers may cause lag.
+    # Allowed range: 1 ~ 15 - Default: 7
+    maxCabinVerticalSize = 7
+
+>>>>>>> 843734b (Making Git Good)

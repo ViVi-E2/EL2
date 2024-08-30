@@ -1,7 +1,11 @@
 {
 	id: "0399220027D545F6"
 	group: "75733624F98E619E"
+<<<<<<< HEAD
 	order_index: 3
+=======
+	order_index: 5
+>>>>>>> 843734b (Making Git Good)
 	filename: "alexs_mobs"
 	title: "Conservation Warrior"
 	icon: {

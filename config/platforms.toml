@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+#Sets Frame climbing behaviour
+#NONE: Can not be climbed
+#LADDER: Ascend via walking. Descends automatically. Sneak holds position.
+#HYBRID: Ascend via walking. Descend via sneaking. Automatically holds position.
+#Allowed Values: NONE, LADDER, HYBRID
+frameClimbMode = "HYBRID"
+>>>>>>> 843734b (Making Git Good)
 
 #Craft Output Control
 [crafting]
@@ -6,10 +15,13 @@
 	#Range: 1 ~ 16
 	Frame = 2
 	#Range: 1 ~ 16
+<<<<<<< HEAD
 	Ramp = 2
 	#Range: 1 ~ 16
 	Rail = 4
 	#Range: 1 ~ 16
+=======
+>>>>>>> 843734b (Making Git Good)
 	Flat = 4
 	#Multiplies the craft amount by the given value if a 'compressed' block is used (2x value if two are used)
 	#See 'data/forge/tags/items/storage_blocks/' to know what qualifies
@@ -17,7 +29,15 @@
 	#Range: 1 ~ 16
 	"'Compressed' Block Multiplier" = 4
 	#Range: 1 ~ 16
+<<<<<<< HEAD
 	Rise = 4
+=======
+	Inclines = 2
+	#Range: 1 ~ 16
+	Roofs = 2
+	#Range: 1 ~ 16
+	Railings = 4
+>>>>>>> 843734b (Making Git Good)
 
 #Platform Dust Covering Options
 [covering]

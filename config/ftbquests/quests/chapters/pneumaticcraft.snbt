@@ -1,7 +1,11 @@
 {
 	id: "65BBD02A54061C8F"
 	group: "516104C773A3B46A"
+<<<<<<< HEAD
 	order_index: 7
+=======
+	order_index: 4
+>>>>>>> 843734b (Making Git Good)
 	filename: "pneumaticcraft"
 	title: "PneumaticCraft"
 	icon: "pneumaticcraft:pressure_gauge"

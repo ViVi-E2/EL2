@@ -1,7 +1,13 @@
 ignoreUpdate:81
 updateNotification:false
+<<<<<<< HEAD
 differentiateByServerAddress:true
 netherlikeCaveMapAllowed:true
+=======
+allowInternetAccess:true
+differentiateByServerAddress:true
+caveMapsAllowed:true
+>>>>>>> 843734b (Making Git Good)
 debug:false
 lighting:true
 colours:0
@@ -11,8 +17,13 @@ terrainSlopes:2
 terrainDepth:true
 footsteps:true
 flowers:true
+<<<<<<< HEAD
 compression:false
 coordinates:true
+=======
+coordinates:true
+hoveredBiome:true
+>>>>>>> 843734b (Making Git Good)
 biomeColorsVanillaMode:false
 waypoints:true
 renderArrow:true
@@ -26,4 +37,29 @@ waypointBackgrounds:true
 detectAmbiguousY:true
 showDisabledWaypoints:false
 closeWaypointsWhenHopping:true
+<<<<<<< HEAD
+=======
+adjustHeightForCarpetLikeBlocks:true
+onlyCurrentMapWaypoints:false
+minZoomForLocalWaypoints:0.0
+arrowColour:-2
+minimapRadar:true
+renderWaypoints:true
+partialYTeleportation:true
+displayStainedGlass:true
+caveModeDepth:30
+caveModeStart:2147483647
+autoCaveMode:-1
+legibleCaveMaps:false
+displayCaveModeStart:true
+caveModeToggleTimer:1000
+defaultCaveModeType:1
+biomeBlending:true
+trackedPlayers:true
+multipleImagesExport:false
+nightExport:false
+highlightsExport:false
+exportScaleDownSquare:20
+mapWritingDistance:-1
+>>>>>>> 843734b (Making Git Good)
 globalVersion:10

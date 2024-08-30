@@ -10,4 +10,9 @@
 	enable_thin_block_handler = true
 	#When enabled carpets on top of scaffolding can be passed through just like snow
 	enable_carpet_passthrough = true
+<<<<<<< HEAD
+=======
+	#When enabled using bonemeal on a stripped log restores the bark
+	bonemeal_restores_bark = true
+>>>>>>> 843734b (Making Git Good)
 

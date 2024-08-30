@@ -1,7 +1,11 @@
 {
 	id: "00000000000006EF"
 	group: "516104C773A3B46A"
+<<<<<<< HEAD
 	order_index: 6
+=======
+	order_index: 7
+>>>>>>> 843734b (Making Git Good)
 	filename: "peaceful_atom"
 	title: "Peaceful Atom"
 	icon: "bigreactors:basic_reactorfuelrod"

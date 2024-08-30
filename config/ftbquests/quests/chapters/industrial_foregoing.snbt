@@ -797,6 +797,18 @@
 			dependencies: ["0000000000000618"]
 			size: 1.5d
 			id: "78C375FC212E4B95"
+<<<<<<< HEAD
+=======
+			tasks: [{
+				id: "7E67D1EE4D71EAF9"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "27983C6CFF97E7B8"
+				type: "xp"
+				xp: 100
+			}]
+>>>>>>> 843734b (Making Git Good)
 		}
 		{
 			title: "Mob Griders"
@@ -814,6 +826,18 @@
 			dependencies: ["0000000000000618"]
 			size: 1.5d
 			id: "79AA2E031EFF01F4"
+<<<<<<< HEAD
+=======
+			tasks: [{
+				id: "542915F65CFEA64F"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "2EC79BA25C931B97"
+				type: "xp"
+				xp: 100
+			}]
+>>>>>>> 843734b (Making Git Good)
 		}
 		{
 			x: 13.0d

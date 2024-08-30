@@ -1,7 +1,12 @@
 {
 	chapter_groups: [
 		{ id: "75733624F98E619E", title: "Exploration" }
+<<<<<<< HEAD
 		{ id: "3B1E3634B0825340", title: "Provisioning" }
 		{ id: "516104C773A3B46A", title: "Technology" }
+=======
+		{ id: "516104C773A3B46A", title: "Technology" }
+		{ id: "3B1E3634B0825340", title: "Provisioning" }
+>>>>>>> 843734b (Making Git Good)
 	]
 }

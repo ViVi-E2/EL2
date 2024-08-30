@@ -1,11 +1,14 @@
 {
   "variants": {
+<<<<<<< HEAD
     "facing=down": {
       "model": "masterfulmachinery:block/ind_kln_controller"
     },
     "facing=up": {
       "model": "masterfulmachinery:block/ind_kln_controller"
     },
+=======
+>>>>>>> 843734b (Making Git Good)
     "facing=north": {
       "model": "masterfulmachinery:block/ind_kln_controller"
     },

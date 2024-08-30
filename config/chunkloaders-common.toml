@@ -11,24 +11,47 @@
     # Allowed values: true, false - Default: true
     allowLegacyLoadedChunks = true
 
+<<<<<<< HEAD
+=======
+    # Can players use the chunk loader map? If false, players will see the message 'The chunk loader map is disabled on this server'.
+    # Allowed values: true, false - Default: true
+    canPlayersUseMap = true
+
+>>>>>>> 843734b (Making Git Good)
 [General]
     # In what radius should the Single Chunk Loader be able to load chunks?
     # Allowed range: 1 ~ 6 - Default: 1
     singleChunkLoaderRadius = 1
 
+<<<<<<< HEAD
     # Should chunk loaders do random ticks in loaded chunks?
     # Allowed values: true, false - Default: true
     doRandomTicks = true
+=======
+    # In what radius should the Basic Chunk Loader be able to load chunks?
+    # Allowed range: 1 ~ 6 - Default: 2
+    basicChunkLoaderRadius = 2
+>>>>>>> 843734b (Making Git Good)
 
     # In what radius should the Advanced Chunk Loader be able to load chunks?
     # Allowed range: 1 ~ 6 - Default: 3
     advancedChunkLoaderRadius = 3
 
+<<<<<<< HEAD
     # In what radius should the Basic Chunk Loader be able to load chunks?
     # Allowed range: 1 ~ 6 - Default: 2
     basicChunkLoaderRadius = 2
 
+=======
+>>>>>>> 843734b (Making Git Good)
     # In what radius should the Ultimate Chunk Loader be able to load chunks?
     # Allowed range: 1 ~ 6 - Default: 4
     ultimateChunkLoaderRadius = 4
 
+<<<<<<< HEAD
+=======
+    # Should chunk loaders do random ticks in loaded chunks?
+    # Allowed values: true, false - Default: true
+    doRandomTicks = true
+
+>>>>>>> 843734b (Making Git Good)

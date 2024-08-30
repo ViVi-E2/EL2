@@ -10,6 +10,14 @@
     "redstone": true,
     "repeater": true
   },
+<<<<<<< HEAD
+=======
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
+  },
+>>>>>>> 843734b (Making Git Good)
   "harvestability": {
     "unharvestableonly": true,
     "toolrequiredonly": true,
@@ -83,6 +91,12 @@
     "show_entity_hp": true,
     "show_entities": true
   },
+<<<<<<< HEAD
+=======
+  "platforms": {
+    "hud": true
+  },
+>>>>>>> 843734b (Making Git Good)
   "storagedrawers": {
     "display.stacklimit": true,
     "display.content": true,

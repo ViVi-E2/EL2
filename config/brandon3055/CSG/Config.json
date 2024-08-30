@@ -1,0 +1,15 @@
+{
+  "inventory": {
+    "0:17": "{id:\"minecraft:wheat_seeds\",Count:3b}",
+    "0:19": "{id:\"backpacker:rucksack\",Count:1b}",
+    "0:9": "{id:\"simplefarming:apple_pie\",Count:1b}",
+    "0:10": "{id:\"spareparts:coins/wooden_coin\",Count:1b}",
+    "0:34": "{id:\"minecraft:honey_bottle\",Count:1b}",
+    "0:1": "{id:\"natural-progression:bone_knife\",Count:1b,tag:{Damage:0}}",
+    "0:0": "{id:\"ftbquests:book\",Count:1b}",
+    "0:5": "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:swiftness\"}}",
+    "0:3": "{id:\"minecraft:torch\",Count:16b}",
+    "0:23": "{id:\"simplefarming:barley_bread\",Count:6b}"
+  },
+  "wipeBlacklist": []
+}

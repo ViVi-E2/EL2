@@ -5,7 +5,28 @@
 	#Range: > 11
 	averageHouseSeparation = 20
 
+<<<<<<< HEAD
 [Other]
 	#Toggle friendly fire
 	friendlyFire = false
+=======
+["Companion config"]
+	#Toggles friendly fire between companions
+	friendlyFireCompanions = false
+	#Toggles friendly fire between player and companion
+	friendlyFirePlayer = true
+	#Toggles fall damage for companions
+	fallDamage = true
+	#Toggles whether companions spawn with armor
+	spawnArmor = true
+	#Toggles whether companions spawn with a weapon
+	spawnWeapon = true
+	#Sets the base health of each companion. Companions spawn with up to +-4 from the base health
+	#Range: > 5
+	baseHealth = 20
+	#Toggles whether companions ask for food if their health goes below half.
+	lowHealthFood = true
+	#Toggles whether companions alert you if a creeper is nearby.
+	creeperWarning = true
+>>>>>>> 843734b (Making Git Good)
 

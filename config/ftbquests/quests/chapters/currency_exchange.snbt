@@ -214,6 +214,7 @@
 			}]
 		}
 		{
+<<<<<<< HEAD
 			disable_toast: true
 			x: -6.0d
 			y: 8.5d
@@ -251,6 +252,8 @@
 			}]
 		}
 		{
+=======
+>>>>>>> 843734b (Making Git Good)
 			title: "Random Ingot/Material"
 			icon: "minecraft:iron_ingot"
 			disable_toast: true
@@ -333,6 +336,7 @@
 			}]
 		}
 		{
+<<<<<<< HEAD
 			title: "Mighty Crown"
 			icon: {
 				id: "curios:crown"
@@ -366,6 +370,8 @@
 			}]
 		}
 		{
+=======
+>>>>>>> 843734b (Making Git Good)
 			title: "Knuckles"
 			icon: "curios:knuckles"
 			disable_toast: true
@@ -387,6 +393,7 @@
 			}]
 		}
 		{
+<<<<<<< HEAD
 			title: "Shiny Necklace"
 			icon: "curios:amulet"
 			disable_toast: true
@@ -408,6 +415,8 @@
 			}]
 		}
 		{
+=======
+>>>>>>> 843734b (Making Git Good)
 			title: "Chainmail Chestplate"
 			icon: {
 				id: "minecraft:chainmail_chestplate"

@@ -2,4 +2,9 @@
 [General]
 	#Whether the starter kit should be re-set after the '/ftbteamislands create' command from FTB Team Islands. Does nothing when it's not installed.
 	enableFTBIslandCreateCompatibility = true
+<<<<<<< HEAD
+=======
+	#Whether items that existed in the inventory, such as books added by other mods, should be added back to the inventory after the kit was set. If disabled, they'll be removed. You can still manually set them via the kit.
+	addExistingItemsAfterKitSet = true
+>>>>>>> 843734b (Making Git Good)
 

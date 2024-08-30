@@ -9,6 +9,10 @@
   "name": "gui.xaero_entity_category_root",
   "protection": true,
   "settingOverrides": {
+<<<<<<< HEAD
+=======
+    "displayHeight": 0.0,
+>>>>>>> 843734b (Making Git Good)
     "displayed": true,
     "heightBasedFade": true,
     "renderOrder": 0.0,
@@ -19,7 +23,10 @@
     "dotSize": 2.0,
     "startFadingAt": 0.0,
     "renderOverMinimapFrame": 1.0,
+<<<<<<< HEAD
     "displayY": false,
+=======
+>>>>>>> 843734b (Making Git Good)
     "icons": 1.0,
     "names": 0.0,
     "heightLimit": 20.0,

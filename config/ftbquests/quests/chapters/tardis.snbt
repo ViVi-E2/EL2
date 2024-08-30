@@ -1,7 +1,11 @@
 {
 	id: "14F4F74C56804B36"
 	group: "516104C773A3B46A"
+<<<<<<< HEAD
 	order_index: 5
+=======
+	order_index: 6
+>>>>>>> 843734b (Making Git Good)
 	filename: "tardis"
 	title: "TARDIS"
 	icon: "tardis:telescope"

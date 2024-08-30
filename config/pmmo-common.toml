@@ -18,6 +18,11 @@
 	warnOutdatedVersion = false
 	#Should right click xp be enabled?
 	rightClickXpEnabled = true
+<<<<<<< HEAD
+=======
+	#Should item specific config values take precedence over tag based values? (true means minecraft:oak_log would take precedence over #minecraft:logs)
+	itemPriorityOverTag = true
+>>>>>>> 843734b (Making Git Good)
 
 [Party]
 	#In what range do Party members have to be to benefit from the other members?

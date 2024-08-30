@@ -1,7 +1,11 @@
 {
 	id: "0000000000001220"
 	group: "75733624F98E619E"
+<<<<<<< HEAD
 	order_index: 5
+=======
+	order_index: 3
+>>>>>>> 843734b (Making Git Good)
 	filename: "end_exploration"
 	title: "End Exploration"
 	icon: "minecraft:end_portal_frame"

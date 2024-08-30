@@ -42,6 +42,12 @@ plateMinG = 0
 plateMinB = 0
 #Range: 0 ~ 255
 plateMinA = 64
+<<<<<<< HEAD
 doValentines = false
 doAprilFools = false
+=======
+applyToPlayers = true
+playersAlwaysNamed = true
+golemsAlwaysNamed = true
+>>>>>>> 843734b (Making Git Good)
 

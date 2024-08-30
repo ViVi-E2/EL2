@@ -102,6 +102,10 @@ removeAllTagsAndHide(<item:cavesandcliffs:deepslate_copper_ore>);
 craftingTable.removeByName("cavesandcliffs:copper_block");
 
 <recipetype:minecraft:blasting>.addRecipe("cc_copper_ore", <item:immersiveengineering:ingot_copper>, <item:cavesandcliffs:copper_ore>, 0.1, 10*20);
+<<<<<<< HEAD
+=======
+<recipetype:minecraft:blasting>.addRecipe("cc_deepcopper_ore", <item:immersiveengineering:ingot_copper>, <item:cavesandcliffs:deepslate_copper_ore>, 0.1, 10*20);
+>>>>>>> 843734b (Making Git Good)
 <recipetype:minecraft:blasting>.addRecipe("cc_copper_raw", <item:immersiveengineering:ingot_copper>, <item:cavesandcliffs:raw_copper>, 0.1, 10*20);
 
 //craftingTable.addShapeless("cc_copper_block", <item:immersiveengineering:ingot_copper> * 9, [<item:cavesandcliffs:copper_block>]);
