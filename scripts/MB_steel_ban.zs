@@ -43,52 +43,6 @@ replaceByName("immersiveengineering:crafting/steel_scaffolding_standard",<item:i
 
 SimpleJsonReplace(<recipetype:transport:rail_workers_bench>,<item:transport:steam_locomotive>,steel_block);
 
-//copper ban
-for item in [
-	<item:cavesandcliffs:waxed_oxidized_cut_copper_slab>,
-	<item:cavesandcliffs:waxed_weathered_cut_copper_slab>,
-	<item:cavesandcliffs:waxed_cut_copper_slab>,
-	<item:cavesandcliffs:waxed_exposed_cut_copper_slab>,
-	<item:cavesandcliffs:waxed_oxidized_cut_copper_stairs>,
-	<item:cavesandcliffs:waxed_weathered_cut_copper_stairs>,
-	<item:cavesandcliffs:waxed_exposed_cut_copper_stairs>,
-	<item:cavesandcliffs:waxed_cut_copper_stairs>,
-	<item:cavesandcliffs:waxed_oxidized_cut_copper>,
-	<item:cavesandcliffs:raw_copper_block>,
-	<item:cavesandcliffs:exposed_copper>,
-	<item:cavesandcliffs:weathered_copper>,
-	<item:cavesandcliffs:oxidized_copper>,
-	<item:cavesandcliffs:cut_copper>,
-	<item:cavesandcliffs:exposed_cut_copper>,
-	<item:cavesandcliffs:weathered_cut_copper>,
-	<item:cavesandcliffs:oxidized_cut_copper>,
-	<item:cavesandcliffs:cut_copper_stairs>,
-	<item:cavesandcliffs:exposed_cut_copper_vertical_slab>,
-	<item:cavesandcliffs:cut_copper_vertical_slab>,
-	<item:cavesandcliffs:oxidized_cut_copper_slab>,
-	<item:cavesandcliffs:weathered_cut_copper_slab>,
-	<item:cavesandcliffs:exposed_cut_copper_slab>,
-	<item:cavesandcliffs:cut_copper_slab>,
-	<item:cavesandcliffs:oxidized_cut_copper_stairs>,
-	<item:cavesandcliffs:weathered_cut_copper_stairs>,
-	<item:cavesandcliffs:exposed_cut_copper_stairs>,
-	<item:cavesandcliffs:weathered_cut_copper_vertical_slab>,
-	<item:cavesandcliffs:oxidized_cut_copper_vertical_slab>,
-	<item:cavesandcliffs:waxed_copper_block>,
-	<item:cavesandcliffs:waxed_exposed_copper>,
-	<item:cavesandcliffs:waxed_weathered_copper>,
-	<item:cavesandcliffs:waxed_oxidized_copper>,
-	<item:cavesandcliffs:waxed_cut_copper>,
-	<item:cavesandcliffs:waxed_exposed_cut_copper>,
-	<item:cavesandcliffs:waxed_weathered_cut_copper>,
-	<item:cavesandcliffs:waxed_cut_copper_vertical_slab>,
-	<item:cavesandcliffs:waxed_exposed_cut_copper_vertical_slab>,
-	<item:cavesandcliffs:waxed_weathered_cut_copper_vertical_slab>,
-	<item:cavesandcliffs:waxed_oxidized_cut_copper_vertical_slab>
-]{
-    removeAndHide(item);
-}
-
 furnace.removeRecipe(<item:cavesandcliffs:copper_ingot>);
 blastFurnace.removeRecipe(<item:cavesandcliffs:copper_ingot>);
 
@@ -102,10 +56,7 @@ removeAllTagsAndHide(<item:cavesandcliffs:deepslate_copper_ore>);
 craftingTable.removeByName("cavesandcliffs:copper_block");
 
 <recipetype:minecraft:blasting>.addRecipe("cc_copper_ore", <item:immersiveengineering:ingot_copper>, <item:cavesandcliffs:copper_ore>, 0.1, 10*20);
-<<<<<<< HEAD
-=======
 <recipetype:minecraft:blasting>.addRecipe("cc_deepcopper_ore", <item:immersiveengineering:ingot_copper>, <item:cavesandcliffs:deepslate_copper_ore>, 0.1, 10*20);
->>>>>>> 843734b (Making Git Good)
 <recipetype:minecraft:blasting>.addRecipe("cc_copper_raw", <item:immersiveengineering:ingot_copper>, <item:cavesandcliffs:raw_copper>, 0.1, 10*20);
 
 //craftingTable.addShapeless("cc_copper_block", <item:immersiveengineering:ingot_copper> * 9, [<item:cavesandcliffs:copper_block>]);
